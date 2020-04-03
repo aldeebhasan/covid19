@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+This application is used to get statistic about COVID19 virous from World Health Organization and dispay it in the application in a suitable manner. very thhanks for covid19api.com for there useful APIs wich help me a lot for developping this small application.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
